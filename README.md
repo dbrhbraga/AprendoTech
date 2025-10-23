@@ -1,6 +1,6 @@
 # AprendoTech
 
-Projeto do kit de eletrônica **BitDogLab** com **Raspberry Pi Pico (RP2040)** desenvolvido no contexto do **EmbarcaTech**. Este repositório contém o código-fonte em C/CMake para compilar com o **Pico SDK** e gravar no microcontrolador.
+Projeto do kit de eletrônica **BitDogLab** com **Raspberry Pi Pico (RP2040)** desenvolvido no contexto do Programa de Capacitação Profissional **EmbarcaTech**. Este repositório contém o código-fonte em C/CMake para compilar com o **Pico SDK** e gravar no microcontrolador.
 
 > 📹 **Demo (vídeo curto):** [https://www.youtube.com/shorts/4A8q-varqKg](https://www.youtube.com/shorts/4A8q-varqKg)
 
